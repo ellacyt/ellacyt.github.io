@@ -1,4 +1,4 @@
-# Impossible Maps
+# Impossible Maps [(Spring 2018)](https://github.com/MimiOnuoha/Impossible-Maps)
 
 ## Week 1 : Creating a web map 
 ![Image](http://www.ellachung.tech/wp-content/uploads/2018/03/mymap-1024x478.png)
