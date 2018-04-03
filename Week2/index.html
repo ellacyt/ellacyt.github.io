@@ -1,0 +1,77 @@
+<!-- Documentation: https://www.mapbox.com/mapbox-gl-js/style-spec/#sources-geojson -->
+<!-- Mapbox styles: https://github.com/mapbox/mapbox-gl-styles -->
+<!-- Earthquake data: https://earthquake.usgs.gov/ -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    html,
+    #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+    }
+    </style>
+    <title> Happiness Ranking 2017 </title>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.css' rel='stylesheet' />
+</head>
+
+<body>
+
+    <div id="map"> </div>
+
+    <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZWxsYWN5dCIsImEiOiJjamY5NzdmejkwYmtiMzBxb2R1Nnh4dng0In0.oQrGyAAq_e6ihJwhBvo9ig';
+
+    var map = new mapboxgl.Map({
+        container: 'map', // you need this
+        style: 'mapbox://styles/mapbox/dark-v9', // you also need this
+        center: [-80.0006213, 40.7229971], // [long, lat] Different than leaflet, different than google maps, same as geojson!
+        zoom: 2,
+    });
+
+
+    // Source is where the data is coming from, layer is what you're going to do with it.
+    map.on('load', function() {
+        map.addSource('happy', { //this is just  what we're calling the dataset
+            type: 'geojson',
+            data: 'data/happy.geojson'
+        });
+        map.addLayer({
+          'id':'happy', //same as when we added the source on line 44
+          'type': 'circle',
+          'source':'happy',
+          'paint':{
+            'circle-radius': {
+              //make the circles larger as the user zooms from 12 to 22
+              'base': 5,
+              'stops': [[12,7], [22,200]],
+          },
+          'circle-color': {
+          'property': 'happiness',
+          'stops': [
+            [2, 'blue'],
+            [7, 'red'],
+          ]
+          }
+          }
+        })
+
+    });
+
+    // Add zoom and rotation controls to the map.
+    map.addControl(new mapboxgl.NavigationControl());
+
+    </script>
+</body>
+
+</html>

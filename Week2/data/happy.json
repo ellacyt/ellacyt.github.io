@@ -1,0 +1,1790 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 7.53700017929077,
+        "country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.61328125,
+          60.930432202923335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 7.52199983596802,
+        "country": "Denmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6240234375,
+          55.89995614406812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 7.50400018692017,
+        "country": "Iceland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.65478515625,
+          64.89558934777301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 7.49399995803833,
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.206787109375,
+          46.73986059969267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 7.4689998626709,
+        "country": "Finland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2353515625,
+          62.552856958572896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 7.3769998550415,
+        "country": "Netherlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.361328125,
+          51.998410382390325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 7.31599998474121,
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.765625,
+          55.3791104480105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 7.31400012969971,
+        "country": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.7822265625,
+          -42.84375132629021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 7.28399991989136,
+        "country": "Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7099609375,
+          64.68031793418314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 7.28399991989136,
+        "country": "Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135,
+          -26.588527147308614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 7.21299982070923,
+        "country": "Israel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.255126953125,
+          31.942839972853083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 7.0789999961853,
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22119140625,
+          10.077037154404719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 7.00600004196167,
+        "country": "Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.348144531249998,
+          47.368594345213374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.99300003051758,
+        "country": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.49218749999999,
+          38.272688535980976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.97700023651123,
+        "country": "Ireland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.767333984374999,
+          53.238920640924974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.95100021362305,
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.26123046875,
+          50.958426723359935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.89099979400635,
+        "country": "Belgium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.669189453125,
+          50.583236614805884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.86299991607666,
+        "country": "Luxembourg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.130027770996094,
+          49.60959759821483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.71400022506714,
+        "country": "UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8017578124999998,
+          54.1109429427243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.65199995040894,
+        "country": "Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.24609375,
+          -38.13455657705412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.63500022888184,
+        "country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03125,
+          -10.833305983642491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.60900020599365,
+        "country": "Czech Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3369140625,
+          49.61070993807422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.59899997711182,
+        "country": "Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.54492187500001,
+          -35.88905007936092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.57800006866455,
+        "country": "Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.12890625,
+          22.836945920943855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.57200002670288,
+        "country": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84002685546875,
+          1.2990219972826829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.52699995040894,
+        "country": "Malta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.447021484374998,
+          35.87792352995116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.4539999961853,
+        "country": "Uruguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1181640625,
+          -33.04550781490999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.4539999961853,
+        "country": "Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.52116394042969,
+          14.634081384671777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.4520001411438,
+        "country": "Panama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.54376220703125,
+          8.971897294083014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.44199991226196,
+        "country": "France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.109375,
+          47.517200697839414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.42399978637695,
+        "country": "Thailand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.05224609374999,
+          14.966013251567164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.42199993133545,
+        "country": "Taiwan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.87158203125,
+          23.563987128451217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.40299987792969,
+        "country": "Spain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.130859375,
+          40.44694705960048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.375,
+        "country": "Qatar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1907958984375,
+          25.24469595130604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.35699987411499,
+        "country": "Colombia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.47656249999999,
+          3.7327083213358465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.3439998626709,
+        "country": "Saudi Arabia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5166015625,
+          23.725011735951796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.16800022125244,
+        "country": "Trinidad and tobago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.23779296875,
+          10.449999821845706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.09800004959106,
+        "country": "Slovakia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.27001953125,
+          48.60385760823255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.08400011062622,
+        "country": "Malaysia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.19335937499999,
+          3.908098881894123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.07100009918213,
+        "country": "Nicaragua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.001220703125,
+          12.372197373357965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.00799989700317,
+        "country": "Ecuador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.486328125,
+          -1.537901237431487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 6.00299978256226,
+        "country": "El Salvador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.96728515624999,
+          13.694024844701644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.97300004959106,
+        "country": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.423828125,
+          51.984880139916626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.96400022506714,
+        "country": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5244140625,
+          42.48830197960227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.96299982070923,
+        "country": "Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.4375,
+          60.58696734225869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.92000007629395,
+        "country": "Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.1640625,
+          35.88905007936091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.83799982070923,
+        "country": "South Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.0126953125,
+          36.33282808737917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.82499980926514,
+        "country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8291015625,
+          45.598665689820635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.82299995422363,
+        "country": "Bolivia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3359375,
+          -17.224758206624628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.71500015258789,
+        "country": "Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6298828125,
+          -10.876464994816283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.62900018692017,
+        "country": "Mauritius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.65624999999999,
+          -20.324023603422507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.5,
+        "country": "Turkey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.15625,
+          38.685509760012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.49300003051758,
+        "country": "Paraguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.60107421874999,
+          -23.483400654325628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.47200012207031,
+        "country": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.17266845703124,
+          22.314507734511825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.42999982833862,
+        "country": "Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.56347656249999,
+          11.092165893502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.27299976348877,
+        "country": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83203125,
+          33.578014746143985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.26900005340576,
+        "country": "Pakistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.5,
+          27.488781168937997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.26200008392334,
+        "country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.01562499999999,
+          -2.460181181020993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.22700023651123,
+        "country": "Greece"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.44482421875,
+          38.496593518947584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.07399988174438,
+        "country": "Nigeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.91015625,
+          9.145486056167277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.96199989318848,
+        "country": "Nepal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.84765625,
+          28.14950321154457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.8289999961853,
+        "country": "South Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9501953125,
+          -28.84467368077178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.80499982833862,
+        "country": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4921875,
+          33.96158628979907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.7350001335144,
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.146484374999996,
+          26.27371402440643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.71400022506714,
+        "country": "Bulgaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.89501953125,
+          42.65012181368022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.70900011062622,
+        "country": "Sierra Leone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.9091796875,
+          8.526700610450167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.69500017166138,
+        "country": "Cameroon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59033203125,
+          4.8282597468669755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.69199991226196,
+        "country": "Iran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.0087890625,
+          31.952162238024975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.64400005340576,
+        "country": "Albania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.01708984375,
+          40.6306300839918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.60799980163574,
+        "country": "Bangladesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.164794921875,
+          24.246964554300924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.57399988174438,
+        "country": "Namibia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.138671875,
+          -21.902277966668624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.55299997329712,
+        "country": "Kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8369140625,
+          0.21972602392080884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.55000019073486,
+        "country": "Mozambique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.541015625,
+          -18.312810846425442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.54500007629395,
+        "country": "Myanmar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.591796875,
+          20.673905264672843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.51399993896484,
+        "country": "Zambia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6416015625,
+          -14.179186142354169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.49700021743774,
+        "country": "Iraq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.70361328125,
+          32.84267363195431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.46000003814697,
+        "country": "Ethiopia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.55078125,
+          8.581021215641854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.44000005722046,
+        "country": "Sri Lanka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.694580078125,
+          7.438730529686968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.37599992752075,
+        "country": "Armenia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.615478515625,
+          40.538851525354666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.31500005722046,
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.046875,
+          21.37124437061831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.16800022125244,
+        "country": "Cambodia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.930419921875,
+          12.307802336622869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.11999988555908,
+        "country": "Ghana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.109619140625,
+          6.7737162387535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.09600019454956,
+        "country": "Ukraine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.201171875,
+          49.18170338770663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.08099985122681,
+        "country": "Uganda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.332763671875,
+          1.2303741774326145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 3.97000002861023,
+        "country": "Malawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5302734375,
+          -13.282718960896405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 3.875,
+        "country": "Zimbabwe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.970703124999996,
+          -19.373340713364044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 3.79399991035461,
+        "country": "Afghanistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.4345703125,
+          33.394759218577995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 3.64400005340576,
+        "country": "Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.58203125,
+          -19.72534224805787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 3.46199989318848,
+        "country": "Syria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.69384765625,
+          34.88593094075317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.81899976730347,
+        "country": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1484375,
+          47.69497434186282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.82200002670288,
+        "country": "Turkmenistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.150390625,
+          38.89103282648846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 3.59299993515015,
+        "country": "Yemen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5927734375,
+          15.665354182093287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.52500009536743,
+        "country": "Libya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.017578125,
+          26.70635985763354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.19000005722046,
+        "country": "Mali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.23046875,
+          16.46769474828897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.02799987792969,
+        "country": "Niger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.931640625,
+          16.88865978738161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 3.93600010871887,
+        "country": "Chad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.984375,
+          14.859850400601037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.29199981689453,
+        "country": "Mauritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.37109375,
+          19.145168196205297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 5.87200021743774,
+        "country": "Algeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.373046875,
+          27.21555620902969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 3.59100008010864,
+        "country": "South Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.146484374999996,
+          6.489983332670651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 2.69300007820129,
+        "country": "Central African Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7421875,
+          6.053161295714067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.29099988937378,
+        "country": "Congo Brazzaville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.238037109375,
+          -4.160158150193397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.28000020980835,
+        "country": "Congo Kinshasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.314941406249998,
+          -4.444997369727273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 3.79500007629395,
+        "country": "Angola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.402343749999996,
+          -12.897489183755892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.13899993896484,
+        "country": "Sudan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8828125,
+          14.26438308756265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "happiness": 4.95499992370605,
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83203125,
+          46.195042108660154
+        ]
+      }
+    }
+  ]
+}
