@@ -1,4 +1,4 @@
-##Spring2018
+## Spring2018
 
 ### [Impossible Maps](https://github.com/MimiOnuoha/Impossible-Maps)
 - [Github](https://ellacyt.github.io/ImpossibleMaps/)
