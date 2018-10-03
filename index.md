@@ -12,3 +12,11 @@
 - [Class](https://itp.nyu.edu/~sve204/dwd_spring2018/)
 - [Blog](http://www.ellachung.tech/category/dwd-online/)
 
+### [Programming A to Z](https://ellacyt.github.io/ProgrammingAtoZ/)
+## Assignments: 
+- [Week 1](https://ellacyt.github.io/ProgrammingAtoZ/DiasticName/)
+- [Week 2](https://ellacyt.github.io/ProgrammingAtoZ/word-interact-ice-cream/)
+- [Week 3](https://ellacyt.github.io/ProgrammingAtoZ/TypeSound/)
+
+## In-Class: 
+- [Week 4](https://ellacyt.github.io/ProgrammingAtoZ/Mastadon 1003/)
