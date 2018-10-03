@@ -14,9 +14,9 @@
 
 ### [Programming A to Z](https://ellacyt.github.io/ProgrammingAtoZ/)
 ## Assignments: 
-- [Week 1](https://ellacyt.github.io/ProgrammingAtoZ/DiasticName/)
-- [Week 2](https://ellacyt.github.io/ProgrammingAtoZ/word-interact-ice-cream/)
-- [Week 3](https://ellacyt.github.io/ProgrammingAtoZ/TypeSound/)
+- [Week 1:Diastic Name](https://ellacyt.github.io/ProgrammingAtoZ/DiasticName/)
+- [Week 2: Word Interact Ice Cream](https://ellacyt.github.io/ProgrammingAtoZ/word-interact-ice-cream/)
+- [Week 3: Type.Sound](https://ellacyt.github.io/ProgrammingAtoZ/TypeSound/)
 
 ## In-Class: 
-- [Week 4](https://ellacyt.github.io/ProgrammingAtoZ/Mastadon 1003/)
+- [Week 4: Mastadon](https://ellacyt.github.io/ProgrammingAtoZ/Mastadon1003/)
