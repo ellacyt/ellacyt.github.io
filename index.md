@@ -8,3 +8,4 @@
 ## Fall2018
 
 - ### [Programming A to Z](https://ellacyt.github.io/ProgrammingAtoZ/)
+- ### [Neural Aesthetics](https://ellacyt.github.io/NeuralAesthetics/)
